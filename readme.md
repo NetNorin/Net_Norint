@@ -1,1 +1,1 @@
-Refer to https://github.com/ElementAI/seasonal-contrast.
+Refer to https://github.com/zhu-xlab/SSL4EO-S12
